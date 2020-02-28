@@ -40,17 +40,17 @@ Below is a list of all pages that belong to this wiki. If the link to the page i
 | [Bypasses of local scope in project-level traffic forecasting](Bypasses_of_local_scope_in_project_level_traffic_forecasting) | Alan/Kermit | Alan 12/24/19 | |
 | [Bypasses of regional scope in project-level traffic forecasting](Bypasses_of_regional_scope_in_project_level_traffic_forecasting) | Alan/Kermit | Alan 12/24/19 | |
 | [Cellular Communications Data](Cellular_Communications_Data) | Matt Stratton | Matt 1/7/2020 | |
-| [Current trends in travel behavior](Current_trends_in_travel_behavior) |Patricia Lavieri | | |
+| [Current trends in travel behavior](Current_trends_in_travel_behavior) |Patricia Lavieri | Patricia 28/02/2020|Needs content update |
 | [Data Development](Data_Development) | Lisa Zorn | Lisa 12/6/2019 | |
 | [Data Visualization](Data_Visualization) | Lisa Zorn | Lisa 12/9/2019 | Marked as Stub |
 | [Discussion of travel delay in acceptable models in project-level traffic forecasting](Discussion_of_travel_delay_in_acceptable_models_in_project_level_traffic_forecasting) | Alan/Kermit | Alan 12/24/19 | |
 | [Empirical Accuracy of Travel Forecasts](Empirical_Accuracy_of_Travel_Forecasts) | Lisa Zorn | Lisa 12/9/2019 | |
 | [Example of an autoregression model with Box-Cox transformation](Example_of_an_autoregression_model_with_Box_Cox_transformation) | Alan/Kermit | Alan 12/24/19 | |
-| [Explaining Activity-Based Models to a General Audience](Explaining_Activity_Based_Models_to_a_General_Audience) |Patricia Lavieri | | |
+| [Explaining Activity-Based Models to a General Audience](Explaining_Activity_Based_Models_to_a_General_Audience) |Patricia Lavieri |Patricia 28/02/2020 | |
 | [Format Testing](Format_Testing) | | | Rolf: Can this page be deleted?|
 | [Freight modeling](Freight_modeling) | Rick Donnelly | | |
 | [Future Development of TFR](Future_Development_of_TFR) | | | Rolf: Page needs to be deleted |
-| [Global Positioning Systems (GPS) Data](Global_Positioning_Systems_(GPS)_Data) |Patricia Lavieri | | |
+| [Global Positioning Systems (GPS) Data](Global_Positioning_Systems_(GPS)_Data) |Patricia Lavieri | Patricia 28/02/2020|Link is broken |
 | [Health and Transportation Data](Health_and_Transportation_Data) | Patrick Singleton | Patrick 01/09/2020 | |
 | [Highway noise analysis in project-level traffic forecasting](Highway_noise_analysis_in_project_level_traffic_forecasting) | Alan/Kermit | Alan 12/24/19 | |
 | [Hybrid models in project-level traffic forecasting](Hybrid_models_in_project_level_traffic_forecasting) | Alan/Kermit | Alan 12/24/19 | |
@@ -68,7 +68,7 @@ Below is a list of all pages that belong to this wiki. If the link to the page i
 | [Modal hierarchy](Modal_hierarchy) | Pooya | Done | |
 | [Mode Choice Behavior](Mode_Choice_Behavior) | Greg | Greg | |
 | [Model Improvement Plan](Model_Improvement_Plan) | Greg | Greg | |
-| [Model Transferability](Model_Transferability) |Patricia Lavieri | | |
+| [Model Transferability](Model_Transferability) |Patricia Lavieri | Patricia 28/02/2020| |
 | [Model Validation and Reasonableness Checking/Amount Of Travel](Model_Validation_and_Reasonableness_Checking/Amount_Of_Travel) | Josie Kressner | Done | Consider simplifying into one summary page with link to PDF/HTML |
 | [Model Validation and Reasonableness Checking/Assignment](Model_Validation_and_Reasonableness_Checking/Assignment) | Josie Kressner | Done | Consider simplifying into one summary page with link to PDF/HTML |
 | [Model Validation and Reasonableness Checking/Distribution](Model_Validation_and_Reasonableness_Checking/Distribution) | Josie Kressner | Done | Consider simplifying into one summary page with link to PDF/HTML |
